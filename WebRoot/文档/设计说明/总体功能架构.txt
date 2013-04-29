@@ -1,4 +1,4 @@
 前台采用HTML ajax进行交互
 后台采用JSP页面
-数据库采用MySQL
+数据库采用SQLite
 Web 应用服务器 采用tomcat
