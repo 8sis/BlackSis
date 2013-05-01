@@ -1,0 +1,1 @@
+package tk.date;import java.text.SimpleDateFormat;import java.util.Date;public class Snippet {		public static void main(String[] args) {		SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy  HH:mm");		System.out.println(sdf.format(new Date()));		String abc =sdf.format(new Date());	}	}
