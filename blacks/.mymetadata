@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="blacks"
+  id="myeclipse.1368087923410"
+  context-root="/blacks"
+  j2ee-spec="6.0"
+  archive="blacks.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
